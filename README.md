@@ -35,7 +35,8 @@ Each bank account has an **account number**, an **owner name**, and a
 money**, and **check their balance**.
 
 The bank will have many accounts, so we want to create a `BankAccount`
-class and use it to create different account objects.
+class and use it to create different account objects — the same way we
+created different `Cake` objects from one `Cake` class.
 
 ### Your Task
 
@@ -60,6 +61,14 @@ Include:
 ### Coding
 
 Create the `BankAccount` class based on your UML diagram.
+
+Keep it simple, the same way we built the `Cake` class:
+- All fields can be `public`.
+- Use `int` for the balance (no decimals needed for this exercise).
+- `Deposit` and `Withdraw` just need to add or subtract the amount — you
+  don't need to check for errors like negative amounts or insufficient
+  funds. (If you finish early and want an extra challenge, try adding
+  that yourself!)
 
 Your program should create at least **two objects** and demonstrate that
 each object has its own data and balance.

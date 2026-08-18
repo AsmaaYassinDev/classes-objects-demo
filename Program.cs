@@ -1,6 +1,5 @@
 ﻿// ============================================================
 // ClassVsObjectDemo
-// A short live-coding demo for the "Class vs. Object" micro-teach.
 // ============================================================
 
 class Program

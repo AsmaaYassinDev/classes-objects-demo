@@ -24,6 +24,8 @@ Explain it without using programming terminology.
 
 ## Question 3 — Design a Bank Account Class
 
+Note: Question 3 will take significantly longer than Questions 1–2 — plan your time accordingly.
+
 ### The Problem
 
 A bank needs a simple program to manage customer bank accounts.
@@ -50,7 +52,6 @@ Before writing any code, identify:
 Draw a UML diagram for your `BankAccount` class.
 
 Include:
-
 - Class name
 - Fields
 - Constructor

@@ -1,0 +1,34 @@
+1. The Identification Questions
+What is the Class?
+The class is BankAccount. It acts as the blueprint for creating all the accounts.
+
+What are the Objects?
+The objects are the specific, individual accounts we create from that blueprint (for example, Sarah's account and John's account).
+
+What Fields does the class need?
+It needs AccountNumber (to hold the account's specific number), OwnerName (to hold the owner's name), and Balance (to hold how much money they have).
+
+What Methods does the class need?
+It needs Deposit() (to add money), Withdraw() (to subtract money), and GetBalance() (to check the current amount).
+
+What information should the Constructor receive?
+The constructor needs the starting information to set up the account: the account number, the owner's name, and the initial balance.
+
+2. The UML Diagram
+A UML (Unified Modeling Language) diagram is just a simple box divided into three sections: the class name at the top, the fields in the middle, and the methods/constructor at the bottom.
+
++-----------------------------------------------------------------------+
+|                              BankAccount                              |
++-----------------------------------------------------------------------+
+| + AccountNumber : string                                              |
+| + OwnerName : string                                                  |
+| + Balance : int                                                       |
++-----------------------------------------------------------------------+
+| + BankAccount(accountNumber: string, ownerName: string, balance: int) |
+| + Deposit(amount: int) : void                                         |
+| + Withdraw(amount: int) : void                                        |
+| + GetBalance() : int                                                  |
++-----------------------------------------------------------------------+
+
+
+(Note: The + symbols just mean these fields and methods are "public", which matches the instructions to keep everything simple!)

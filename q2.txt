@@ -1,0 +1,18 @@
+QUESTION 2: EXPLAIN IT TO A CLIENT
+----------------------------------
+
+THE PROBLEM WITH SEPARATE VARIABLES
+Imagine running a school with 500 students. Instead of giving each student their own file, you write every piece of information on separate index cards.
+
+You end up with 500 cards for names, 500 cards for ages, and 500 cards for courses. If the cards get mixed up, you could easily lose track of which age belongs to which student or which course belongs to whom.
+
+It quickly becomes messy, confusing, and difficult to manage.
+
+THE BENEFIT OF USING A CLASS
+Using a Class is like having a standard "Student File Folder."
+
+Every time a new student registers, we create a new folder with dedicated spaces for their Name, Age, and Course.
+
+For example, Sarah gets her own folder containing all of Sarah's information, while John gets a separate folder containing all of John's information.
+
+This keeps each student's information together, organised, and easy to manage. Whether the school has 10 students or 10,000, the same system can be used consistently. 

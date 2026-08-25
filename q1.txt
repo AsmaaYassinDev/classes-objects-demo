@@ -1,0 +1,12 @@
+QUESTION 1: EXPLAIN IT TO A NON-TECHNICAL PERSON
+------------------------------------------------
+
+Think of a Class as the factory design for a car (like a Honda Civic), and an Object as the actual, physical car parked in your driveway.
+
+THE CLASS (THE DESIGN)
+The design is just an idea on paper or a computer screen. It says, "Every car of this type will have four doors, an engine, and a radio." You can't put gas into a design, and you certainly can't drive it to the grocery store. It is just the master plan.
+
+THE OBJECT (THE CAR)
+The physical cars are the real things that roll off the assembly line. The factory can use that single design to build thousands of real cars. 
+
+Your specific car might be painted silver with a black interior, while your neighbor's car is painted red with tan leather. They both came from the exact same master design, but each car is its own unique, physical thing that you can actually touch and drive!
